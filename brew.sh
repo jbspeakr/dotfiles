@@ -48,7 +48,7 @@ brew install caskroom/cask/brew-cask
 # Install Casks
 brew cask install alfred
 brew cask install flux
-
+brew cask install java
 # cask install google-chrome
 # cask install iterm2
 brew cask install intellij-idea
