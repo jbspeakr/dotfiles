@@ -41,6 +41,7 @@ brew install homebrew/dupes/openssh
 brew install homebrew/dupes/screen
 brew install optipng
 brew install git
+brew install python
 
 # Install Cask
 brew install caskroom/cask/brew-cask
