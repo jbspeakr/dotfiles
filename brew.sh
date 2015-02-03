@@ -39,8 +39,10 @@ brew install vim --override-system-vi
 brew install homebrew/dupes/grep
 brew install homebrew/dupes/openssh
 brew install homebrew/dupes/screen
+brew install openssl
 brew install optipng
 brew install git
+brew install subversion
 brew install python
 brew install python3
 brew install maven
@@ -52,8 +54,8 @@ brew install caskroom/cask/brew-cask
 brew cask install alfred
 brew cask install flux
 brew cask install java
-# cask install google-chrome
-# cask install iterm2
+brew cask install google-chrome
+brew cask install iterm2
 brew cask install intellij-idea
 brew cask install slack
 
