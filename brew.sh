@@ -46,6 +46,7 @@ brew install subversion
 brew install python
 brew install python3
 brew install maven
+brew install rpm
 
 # Install Cask
 brew install caskroom/cask/brew-cask
@@ -58,6 +59,10 @@ brew cask install google-chrome
 brew cask install iterm2
 brew cask install intellij-idea
 brew cask install slack
+brew cask install dropbox
+brew cask install evernote
+brew cask install pycharm
+
 
 # Install Node.js. Note: this installs `npm` too, using the recommended
 # installation method.
