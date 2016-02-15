@@ -50,14 +50,10 @@ brew install woff2
 # Install other useful binaries.
 brew install ack
 brew install dark-mode
-brew install firefox
 brew install git
 brew install git-lfs
-brew install google-chrome
+brew install htop
 brew install imagemagick --with-webp
-brew install intellij-idea
-brew install iterm2
-brew install java
 brew install lua
 brew install lynx
 brew install maven
@@ -70,7 +66,6 @@ brew install python3
 brew install rename
 brew install rhino
 brew install rpm
-brew install slack
 brew install speedtest_cli
 brew install ssh-copy-id
 brew install subversion
@@ -78,6 +73,13 @@ brew install testssl
 brew install tree
 brew install webkit2png
 brew install zopfli
+
+brew cask install firefox
+brew cask install google-chrome
+brew cask install intellij-idea
+brew cask install iterm2
+brew cask install java
+brew cask install slack
 
 # Remove outdated versions from the cellar.
 brew cleanup
