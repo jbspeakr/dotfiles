@@ -79,6 +79,9 @@ brew cask install firefox
 brew cask install intellij-idea
 brew cask install iterm2
 brew cask install java
+brew cask install dropbox
+brew cask install 1password
+brew cask install atom
 
 # Remove outdated versions from the cellar.
 brew cleanup
