@@ -82,6 +82,7 @@ brew cask install java
 brew cask install dropbox
 brew cask install 1password
 brew cask install atom
+brew cask install whatsapp
 
 # Remove outdated versions from the cellar.
 brew cleanup
